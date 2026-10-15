@@ -3,3 +3,5 @@
 /conferencia.json
 /estados/blocos.json
 /.conferido
+/documentos/publicos/*
+!/documentos/publicos/*.asc
