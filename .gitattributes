@@ -1,0 +1,6 @@
+* text=auto eol=lf
+estados/** -text
+documentos/** -text
+projetos/** -text
+declaracoes/** -text
+chave/** -text
