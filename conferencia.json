@@ -3,54 +3,54 @@
     "afirmacao": "dns:pablo.space?type=TXT",
     "estado": "ok",
     "motivo": "prova encontrada em 2 de 2 consultas",
-    "em": "2026-10-15T08:29:42Z"
+    "em": "2026-10-15T08:32:22Z"
   },
   {
     "afirmacao": "dns:pablomurad.com?type=TXT",
     "estado": "ok",
     "motivo": "prova encontrada em 2 de 2 consultas",
-    "em": "2026-10-15T08:29:42Z"
+    "em": "2026-10-15T08:32:22Z"
   },
   {
     "afirmacao": "https://bsky.app/profile/did:plc:acmqj4gvd637wnybyk7nkogq",
     "estado": "ok",
     "motivo": "prova encontrada em 1 de 1 consultas",
-    "em": "2026-10-15T08:29:43Z"
+    "em": "2026-10-15T08:32:23Z"
   },
   {
     "afirmacao": "https://gist.github.com/runawaydevil/04b332f4c595f0f4fdd82a4f12f9fba9",
     "estado": "ok",
     "motivo": "prova encontrada em 1 de 1 consultas",
-    "em": "2026-10-15T08:29:44Z"
+    "em": "2026-10-15T08:32:23Z"
   },
   {
     "afirmacao": "https://git.pablomurad.com/pablo/forgejo_proof",
     "estado": "ok",
     "motivo": "prova encontrada em 1 de 1 consultas",
-    "em": "2026-10-15T08:29:44Z"
+    "em": "2026-10-15T08:32:23Z"
   },
   {
     "afirmacao": "https://lobste.rs/~murad",
     "estado": "ok",
     "motivo": "prova encontrada em 1 de 1 consultas",
-    "em": "2026-10-15T08:29:45Z"
+    "em": "2026-10-15T08:32:24Z"
   },
   {
     "afirmacao": "https://murad.social/@pablo",
     "estado": "inconclusivo",
     "motivo": "não respondeu: HTTP 401",
-    "em": "2026-10-15T08:29:45Z"
+    "em": "2026-10-15T08:32:24Z"
   },
   {
     "afirmacao": "https://news.ycombinator.com/user?id=runawaydevil",
     "estado": "ok",
     "motivo": "prova encontrada em 1 de 1 consultas",
-    "em": "2026-10-15T08:29:46Z"
+    "em": "2026-10-15T08:32:25Z"
   },
   {
     "afirmacao": "https://twitter.com/pblmrd87/status/2106384684494012829",
     "estado": "inconclusivo",
     "motivo": "não há verificador automático para este endereço",
-    "em": "2026-10-15T08:29:46Z"
+    "em": "2026-10-15T08:32:25Z"
   }
 ]

@@ -1,0 +1,19 @@
+{
+  "versao": 1,
+  "numero": 1,
+  "anterior": "",
+  "data": "2026-10-15T08:32:25Z",
+  "impressao": "7C3A051F5EA99005FC1378824E7F9C514F1DAC87",
+  "afirmacoes": [
+    "dns:pablo.space?type=TXT",
+    "dns:pablomurad.com?type=TXT",
+    "https://bsky.app/profile/did:plc:acmqj4gvd637wnybyk7nkogq",
+    "https://gist.github.com/runawaydevil/04b332f4c595f0f4fdd82a4f12f9fba9",
+    "https://git.pablomurad.com/pablo/forgejo_proof",
+    "https://lobste.rs/~murad",
+    "https://murad.social/@pablo",
+    "https://news.ycombinator.com/user?id=runawaydevil",
+    "https://twitter.com/pblmrd87/status/2106384684494012829"
+  ],
+  "arquivos": []
+}
