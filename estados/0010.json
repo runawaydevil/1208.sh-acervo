@@ -1,0 +1,44 @@
+{
+  "versao": 2,
+  "numero": 10,
+  "anterior": "010d79d0e2d9b0524f7750a7b19b5d5c39d38c849664f23787e0eadba23fa9b2",
+  "data": "2026-10-15T18:38:49Z",
+  "impressao": "7C3A051F5EA99005FC1378824E7F9C514F1DAC87",
+  "afirmacoes": [
+    "dns:1208.sh?type=TXT",
+    "dns:ascii.zone?type=TXT",
+    "dns:bimb.ooo?type=TXT",
+    "dns:grupomurad.com.br?type=TXT",
+    "dns:links.expert?type=TXT",
+    "dns:murad.gg?type=TXT",
+    "dns:murad.guide?type=TXT",
+    "dns:murad.lol?type=TXT",
+    "dns:murad.pictures?type=TXT",
+    "dns:murad.tube?type=TXT",
+    "dns:noctem.cafe?type=TXT",
+    "dns:pablo.news?type=TXT",
+    "dns:pablo.ooo?type=TXT",
+    "dns:pablo.tube?type=TXT",
+    "dns:pablomurad.com?type=TXT",
+    "dns:pmurad.music?type=TXT",
+    "dns:pupu.page?type=TXT",
+    "dns:tuno.place?type=TXT",
+    "https://bsky.app/profile/did:plc:acmqj4gvd637wnybyk7nkogq",
+    "https://gist.github.com/runawaydevil/04b332f4c595f0f4fdd82a4f12f9fba9",
+    "https://git.pablomurad.com/pablo/forgejo_proof",
+    "https://lobste.rs/~murad",
+    "https://murad.social/@pablo",
+    "https://news.ycombinator.com/user?id=runawaydevil",
+    "https://twitter.com/pblmrd87/status/2106384684494012829",
+    "https://www.flickr.com/people/pablomub/",
+    "mailto:pablo@pablomurad.com"
+  ],
+  "enderecos": [
+    "https://1208.sh",
+    "https://prova.pablomurad.com"
+  ],
+  "itens": {
+    "raiz": "2f281042626f1963a0511154dfeeedfcb56a5b307c9be40f4d9dcfef6cd29fe9",
+    "total": 1
+  }
+}
