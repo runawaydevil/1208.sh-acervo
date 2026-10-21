@@ -4,3 +4,4 @@
 /.conferido
 /documentos/publicos/*
 !/documentos/publicos/*.asc
+/.vigia.json
