@@ -3,8 +3,7 @@
   "dominio": "1208.sh",
   "principal": "pablomurad.com",
   "enderecos": [
-    "https://1208.sh",
-    "https://prova.pablomurad.com"
+    "https://1208.sh"
   ],
   "ocultas": [
     "dns:pablo.space?type=TXT"
