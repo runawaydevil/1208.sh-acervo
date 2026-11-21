@@ -1,0 +1,4 @@
+# Chave age de Pablo Murad, registrada em https://1208.sh em 2026-11-21.
+# age recipient of Pablo Murad. Para cifrar / to encrypt:
+#   curl -s https://1208.sh/age.txt | age -R - ARQUIVO > ARQUIVO.age
+age10shyjwefezgk3prjggjm7r3d7j85eqzrwlvkz9al0ulg4m5m3qzskejuw7
